@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/linuxEx2.dir/stocks.cpp.o CMakeFiles/linuxEx2.dir/src/csvExport.cpp.o CMakeFiles/linuxEx2.dir/src/stockData.cpp.o CMakeFiles/linuxEx2.dir/src/utils.cpp.o  -o linuxEx2   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lzip 

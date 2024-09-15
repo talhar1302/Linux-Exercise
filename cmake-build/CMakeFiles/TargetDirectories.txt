@@ -1,0 +1,3 @@
+/home/liongol/EX2_LINUX/Stocks-app/linuxEx2/cmake-build/CMakeFiles/rebuild_cache.dir
+/home/liongol/EX2_LINUX/Stocks-app/linuxEx2/cmake-build/CMakeFiles/edit_cache.dir
+/home/liongol/EX2_LINUX/Stocks-app/linuxEx2/cmake-build/CMakeFiles/linuxEx2.dir
